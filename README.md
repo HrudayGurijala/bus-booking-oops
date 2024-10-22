@@ -43,13 +43,13 @@ A simple bus reservation system developed using C++, featuring admin and user po
 
 # Usage
 
-## User Portal
+### User Portal
 Users can book or cancel tickets.
 
-## Admin Portal
+### Admin Portal
 Admins can add or edit buses and view bookings with filters.
 
-## Date and Time
+### Date and Time
 The `get_time` and `get_date` functions in the `utils` header retrieve the current date and time of a booking.
 
 # Contributions
